@@ -1,5 +1,5 @@
 # FNOF
-a game that me and my friends are working on currently, none of us have made games prior to this.
+FNOF (Five Nights Of Filmkurs) is a game that me and my friends are working on currently, none of us have made games prior to this.
 this game is about a new person to a movie school
  called "Kulturskolan" in Sweden.
  
